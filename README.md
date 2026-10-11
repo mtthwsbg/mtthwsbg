@@ -33,6 +33,8 @@ useful to you, [reach out](https://matthewsabag.com/contact).
   <img alt="3D contribution calendar with language breakdown" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
 
+<img alt="GitHub stats and most-used languages" src="metrics.svg">
+
 ## Tools
 
 SolidWorks · OnShape · AutoCAD · MATLAB · Python · C++ · Arduino · LabVIEW · JavaScript · Git
