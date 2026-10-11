@@ -26,13 +26,6 @@ and I build the software and AI tools I need along the way.
 Also building a few private tools for productivity and web design. If any of it sounds
 useful to you, [reach out](https://matthewsabag.com/contact).
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D contribution calendar with language breakdown" src="profile-3d-contrib/profile-green-animate.svg">
-</picture>
-
 ## Tools
 
 SolidWorks · OnShape · AutoCAD · MATLAB · Python · C++ · Arduino · LabVIEW · JavaScript · Git
